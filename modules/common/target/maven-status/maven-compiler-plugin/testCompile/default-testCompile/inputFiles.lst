@@ -1,0 +1,12 @@
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/util/StringUtilsTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/messaging/TestMessageGatewayImpl.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/util/ClassUtilsTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/naming/CachingNamingClientDecoratorTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/util/ThrowableUtilsTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/core/MethodParameterValidatingInterceptorTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/core/MethodParameterValidatorImplTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/core/ThrowableLoggingInterceptorTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/core/MethodInvocationCachingInterceptorTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/core/MethodInvocationCacheImplTestCase.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/core/MockInvocationContext.java
+/home/opc/medrec-1511-rewrite045/modules/common/src/test/java/com/oracle/medrec/common/messaging/TestMessageConverterImpl.java

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<job id="report" xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="1.0">
+<job id="report" xmlns="https://jakarta.ee/xml/ns/jakartaee" version="2.0">
   <step id="record" next="drug">
     <listeners>
       <listener ref="RecordStepListener"/>
