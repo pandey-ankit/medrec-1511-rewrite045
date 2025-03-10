@@ -1,4 +1,0 @@
-com/oracle/medrec/facade/impl/PhysicianFacadeImplTestCase.class
-com/oracle/medrec/facade/impl/RecordFacadeImplTestCase.class
-com/oracle/medrec/facade/broker/rmi/RmiPatientFacadeBrokerTestCase.class
-com/oracle/medrec/facade/impl/PatientFacadeImplTestCase.class
